@@ -36,14 +36,9 @@
 }
 
 .refreshButton {
-    width: 32px;
+    width: 64px;
     height: 32px;
     margin: 0 auto;
     display: block;
     cursor: pointer;
-}
-
-.reload {
-    font-family: Lucida Sans Unicode;
-    font-size: 24px;
 }
