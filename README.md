@@ -30,3 +30,11 @@ npm run develop
 ```bash
 npm run build
 ```
+
+## How to contribute
+- Star this repository.
+- Create an issue with description that how you want to contribute in this project.
+- Then fork this repository.
+- In forked repository add your changes.
+- Then make pull request with issue number.
+- Wait for review.
